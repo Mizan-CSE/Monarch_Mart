@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-05T16:05:51 BDT" name="Default suite" finished-at="2022-04-05T16:06:51 BDT" duration-ms="59987">
+    <groups>
+    </groups>
+    <test started-at="2022-04-05T16:05:51 BDT" name="Default test" finished-at="2022-04-05T16:06:51 BDT" duration-ms="59987">
+      <class name="login.TC_001_LoginWithPositiveData">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:login.TC_001_LoginWithPositiveData@44ebcd03]" started-at="2022-04-05T16:05:41 BDT" name="setDriver" finished-at="2022-04-05T16:05:51 BDT" duration-ms="9931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="loginWithPositiveData()[pri:0, instance:login.TC_001_LoginWithPositiveData@44ebcd03]" started-at="2022-04-05T16:05:51 BDT" name="loginWithPositiveData" finished-at="2022-04-05T16:06:51 BDT" duration-ms="59911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithPositiveData -->
+        <test-method is-config="true" signature="close()[pri:0, instance:login.TC_001_LoginWithPositiveData@44ebcd03]" started-at="2022-04-05T16:06:51 BDT" name="close" finished-at="2022-04-05T16:06:52 BDT" duration-ms="850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- login.TC_001_LoginWithPositiveData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
